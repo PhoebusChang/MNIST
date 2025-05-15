@@ -17,8 +17,7 @@ Built with [PyTorch Lightning](https://www.pytorchlightning.ai/) for clean, modu
 
 - **Digit Classifier:** Accurately predicts the digit in any MNIST-style image.
 - **Digit Generator:** Creates new, realistic digit images from any label (0–9).
-- **Interactive CLI:** Test both models interactively from the terminal.
-- **Easy Training & Inference:** Simple scripts for training, prediction, and image generation.
+- **Easy Training & Inference:** Simple scripts for number prediction and image generation.
 
 ---
 
