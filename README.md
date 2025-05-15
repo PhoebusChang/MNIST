@@ -97,14 +97,14 @@ python reverse.py
 
 ## Example
 
-**Generate a "7":**
+**Generate a "8":**
 ```sh
 python reverse.py
-# Enter digit 7
+# Enter digit 8
 ```
 Result (`generated.png`):
 
-![Generated digit 7](generated.png)
+![Generated digit 8](generated.png)
 
 **Classify an Image:**
 ```sh
@@ -114,19 +114,6 @@ python main.py
 Input (`test.png`):
 
 ![Test image](test.png)
-
-**Generate a "7":**
-```sh
-python reverse.py
-# Enter digit 7
-```
-See `generated.png` for the result.
-
-**Classify an Image:**
-```sh
-python main.py
-# Press Enter to classify 'test.png'
-```
 
 ## Acknowledgements
 
