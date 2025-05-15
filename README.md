@@ -110,14 +110,6 @@ python main.py
 # Press Enter to classify 'test.png'
 ```
 
----
-
-## License
-
-MIT License
-
----
-
 ## Acknowledgements
 
 - [PyTorch](https://pytorch.org/)
