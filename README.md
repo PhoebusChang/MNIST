@@ -102,6 +102,24 @@ python reverse.py
 python reverse.py
 # Enter digit 7
 ```
+Result (`generated.png`):
+
+![Generated digit 7](generated.png)
+
+**Classify an Image:**
+```sh
+python main.py
+# Press Enter to classify 'test.png'
+```
+Input (`test.png`):
+
+![Test image](test.png)
+
+**Generate a "7":**
+```sh
+python reverse.py
+# Enter digit 7
+```
 See `generated.png` for the result.
 
 **Classify an Image:**
