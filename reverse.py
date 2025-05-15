@@ -47,7 +47,7 @@ class LabelToImageGenerator(pl.LightningModule):
         return torch.optim.Adam(self.parameters(), lr=0.001)
 
 generator = LabelToImageGenerator()
-trainer = pl.Trainer(max_epochs=100, accelerator="auto", devices="auto")
+trainer = pl.Trainer(max_epochs=20, accelerator="auto", devices="auto")
 trainer.fit(generator, train_loader)
 
 # === Generate & Save Images ===
